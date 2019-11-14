@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Write JavaScript `static` methods
-
+ 
 ## Introduction
 
 In this lab, we are going to practice writing `static` methods. In JavaScript,
